@@ -78,9 +78,13 @@ Yes. Terraform can automate the provisioning of Kubernetes on cloud platforms. T
 Closing Thoughts 
 Deploying, managing, and orchestrating multi-cloud environments can be a huge challenge for DevOps teams. But coordinating between different service providers and technologies like AWS and Azure Virtual Networks can be much easier and less time-consuming with Terraform infrastructure-as-code. Terraform is platform-agnostic and works with just about any cloud or data service provider. An experienced cybersecurity partner like Varonis can help you implement Terraform within your own ecosystem so you can then let the code do the heavy lifting, instead of your DevOps team.
 
+Get more informations and the basic commands from the links below:
+
 https://spacelift.io/blog/terraform-commands-cheat-sheet
 https://spacelift.io/blog/terraform-aws-vpc
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+
+Regards, Emmanuel Usanga
 
 
 
