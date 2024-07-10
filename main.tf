@@ -37,4 +37,4 @@ output "myD_arn" {
 output "myE_IG" {
   value = module.vpc.ig_id
 }
-123
+
